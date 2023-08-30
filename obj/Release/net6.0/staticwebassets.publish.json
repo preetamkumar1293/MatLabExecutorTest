@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kKotVQ6ExhSAobs7JjPWaOItcenND8mqWtZZ7dq2/EE=",
+  "Source": "MatlabExecutor.WebAPI",
+  "BasePath": "_content/MatlabExecutor.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
